@@ -183,3 +183,17 @@ The Chronic Medication Collection project, having successfully navigated the wat
    - While the importance of collaboration was a pre-existing belief, this project solidified its pivotal role in successful engineering endeavors. Effective collaboration is not just about dividing tasks; it's about cultivating an environment where diverse perspectives converge to create innovative and resilient solutions.
 
 The Chronic Medication Collection project has been a profound journey of technical discovery, personal growth, and a reaffirmation of the principles that underpin impactful engineering. As I navigate future projects, these lessons will serve as a compass, guiding me toward solutions that are not only technically robust but also deeply considerate of the human experience they aim to enhance.
+
+
+
+
+About Me:
+I am an enthusiastic and dedicated software engineer with a keen interest in health-tech solutions. My journey in technology is fueled by a commitment to learning, collaboration, and creating meaningful applications. Outside of coding, I enjoy exploring the latest advancements in tech, engaging with the developer community, and pursuing projects that blend innovation with empathy.
+
+GitHub Project Link: Chronic Medication Collection on GitHub
+
+Deployed Project Page: Chronic Medication Collection Deployment
+
+Project Landing Page: Chronic Medication Collection Landing Page
+
+LinkedIn Profile: Your LinkedIn Profile
